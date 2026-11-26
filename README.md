@@ -4,9 +4,9 @@
 
 Am Projekt arbeiten
 
-- Vorname Nachname (kuerzel@students.zhaw.ch)
-- Vorname Nachname (kuerzel@students.zhaw.ch)
-- Vorname Nachname (kuerzel@students.zhaw.ch)
+- Angelika Gasteiger- gasang01@students.zhaw.ch
+- Ivan Nemeth- nemetiva@students.zhaw.ch
+- Veronika Pisano- leglever@students.zhaw.ch
 
 
 ## Projektidee
