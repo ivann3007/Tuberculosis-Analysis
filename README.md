@@ -9,3 +9,4 @@ hallo
 habe eine Frage 
 ja bitte? 
 wie isch ds esse gsi ? nimm noch d letschte stuck bitte  
+11/10
